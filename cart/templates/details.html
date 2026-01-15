@@ -1,0 +1,10 @@
+{% extends "master.html" %}
+
+{% block title %}
+    Details about {{ mymember.firstName }}
+{% endblock %}
+
+{% block content %}
+    <h1>{{ mymember.firstName }}</h1>
+    <p>{{ mymember.phone }}</p>
+{% endblock %}
