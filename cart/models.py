@@ -8,6 +8,4 @@ class Member(models.Model):
     joined_date = models.DateField(null = True)
 
 
-class cart:
-    d =""
 
