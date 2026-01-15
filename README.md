@@ -1,2 +1,2 @@
 # django
-Django Learning
+Django refresh the concepts 
